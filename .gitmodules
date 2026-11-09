@@ -1,0 +1,3 @@
+[submodule "Vendor/zebkit"]
+	path = Vendor/zebkit
+	url = https://github.com/ikey4u/zebkit
